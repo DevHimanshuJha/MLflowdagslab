@@ -1,0 +1,8 @@
+## ML FLow experiements
+
+MLFLOW_TRACKING_URI= 
+MLFLOW_TRACKING_USERNAME= 
+MLFLOW_TRACKING_PASSWORD= 
+python script.py
+kshitijkrojha
+b93703d9b73cabf3e69f616a894d5183b7cfa9c8
